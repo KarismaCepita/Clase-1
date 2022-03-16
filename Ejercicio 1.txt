@@ -1,6 +1,6 @@
 Personaje 
 
-Fuerza - 200
+Fuerza - 1000
 
 
 
