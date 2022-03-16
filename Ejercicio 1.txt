@@ -1,0 +1,7 @@
+Personaje 
+
+Fuerza - 200
+
+Velocidad= 200
+
+Destreza= 50
