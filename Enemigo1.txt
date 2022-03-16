@@ -2,3 +2,8 @@ Enemigo
 
 Fuerza 200
 
+Vida 40 
+
+Fuerza = 100
+
+Velocidad = 100
