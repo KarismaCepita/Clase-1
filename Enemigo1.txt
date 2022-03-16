@@ -2,3 +2,4 @@ Enemigo
 
 Fuerza 200
 
+Vida 40
