@@ -1,0 +1,9 @@
+Personaje 
+
+Fuerza - 200
+
+Velocidad= 200
+
+
+
+
